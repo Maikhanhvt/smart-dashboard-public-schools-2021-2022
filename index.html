@@ -290,7 +290,7 @@
             .then(data => {
                 // make array: {name, count}
                 const rows = data.features.map(f => ({
-                name: f.properties.STUSPS || f.properties.NAME,   // use abbreviation if you want
+                name: f.properties.STUSPS || f.properties.NAME,   
                 fullName: f.properties.NAME,
                 count: Number(f.properties.NUMPOINTS || 0)
                 }));
