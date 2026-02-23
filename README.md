@@ -8,7 +8,7 @@ This project provides an interactive web maps that visualize public school locat
 
 
 **Choropleth Map: US Public Schools 2021-2022**  
-https://Maikhanhvt.github.io/smart-dashboard-public-schools-2021-2022/index.html
+https://maikhanhvt.github.io/smart-dashboard-public-schools-2021-2022/
   ![Choropleth Map Screenshot](img/smart-dashboard.png)
 
 ## Data Source
